@@ -6,7 +6,7 @@ A Toolkit for Modeling and Simulation of Resource Management Techniques in Inter
  * Microservice Orchestration
  * Dynamic Distributed Clustering
  * Any Combinations of Above-mentioned Features
- * Full Compatibility with the Latest Version of the CloudSim (i.e., [CloudSim 5](https://github.com/Cloudslab/cloudsim/releases)) and [Previous iFogSim Version](https://github.com/Cloudslab/iFogSim1) and Tutorials
+ 
 
 iFogSim2 currently encompasses several new usecases such as:
  * Audio Translation Scenario
@@ -22,7 +22,7 @@ iFogSim2 currently encompasses several new usecases such as:
   ```
   * Add the Git repository of iFogSim2 as the `origin` remote:
   ```
-  git remote add origin https://github.com/Cloudslab/iFogSim
+  git remote add origin https://github.com/mohdshadabdev/iFogSim
   ```
   * Pull the contents of the repository to your machine:
   ```
@@ -34,7 +34,7 @@ iFogSim2 currently encompasses several new usecases such as:
 * IntelliJ IDEA:
   * Clone the iFogSim2 Git repository to desired folder:
   ```
-  git clone https://github.com/Cloudslab/iFogSim
+  git clone https://github.com/mohdshadabdev/iFogSim
   ```
   * Select "project from existing resources" from the "File" drop-down menu
   * Verify the Java version
