@@ -34,7 +34,7 @@ iFogSim2 currently encompasses several new usecases such as:
 * IntelliJ IDEA:
   * Clone the iFogSim2 Git repository to desired folder:
   ```
-  git clone https://github.com/Cloudslab/iFogSim
+  git clone https://github.com/mohdshadabdev/iFogSim
   ```
   * Select "project from existing resources" from the "File" drop-down menu
   * Verify the Java version
